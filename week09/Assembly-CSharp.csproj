@@ -46,6 +46,7 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\scripts\HelloWorld.cs" />
+     <Compile Include="Assets\scripts\PressWASD.cs" />
      <Compile Include="Assets\scripts\ReflexGame.cs" />
      <Compile Include="Assets\scripts\TapGame.cs" />
  <Reference Include="UnityEngine.UI">
