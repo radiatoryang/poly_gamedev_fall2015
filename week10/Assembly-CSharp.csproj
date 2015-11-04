@@ -45,6 +45,7 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\scripts\CapsuleMove.cs" />
      <Compile Include="Assets\scripts\CubeMove.cs" />
      <Compile Include="Assets\scripts\SphereMove.cs" />
  <Reference Include="UnityEngine.UI">
